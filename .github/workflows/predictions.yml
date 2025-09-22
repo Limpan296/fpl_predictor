@@ -1,0 +1,18 @@
+name: FPL Predict
+
+on:
+  schedule:
+    - cron: "30 2 * * *"  # 02:30 UTC = 04:30 CET/CEST
+  workflow_dispatch:
+
+jobs:
+  predict:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -r requirements.txt
+      - run: python predict.py
