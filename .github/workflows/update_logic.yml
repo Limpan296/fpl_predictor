@@ -1,0 +1,19 @@
+name: FPL Verify & Update
+
+on:
+  schedule:
+    - cron: "0 3 * * *"  # 03:00 UTC = 05:00 CET/CEST
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -r requirements.txt
+      - run: python fetch_data.py
+      - run: python update_model.py
