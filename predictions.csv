@@ -1,0 +1,742 @@
+first_name,last_name,predicted_change,net_transfers,ownership,price,points
+David,Raya Martín,down,85005,24.1,55,26
+Kepa,Arrizabalaga Revuelta,up,-1813,0.6,44,0
+Karl,Hein,up,-1309,0.4,40,0
+Tommy,Setford,up,486,0.2,40,0
+Gabriel,dos Santos Magalhães,up,64501,22.5,61,25
+William,Saliba,same,-1635,12.5,60,18
+Riccardo,Calafiori,up,35200,14.2,57,35
+Jurriën,Timber,up,91421,13.4,58,35
+Jakub,Kiwior,same,-299,0.1,54,0
+Myles,Lewis-Skelly,same,-9015,2.2,53,2
+Benjamin,White,same,-2508,0.5,54,6
+Brayden,Clarke,same,-644,0.5,40,0
+Maldini,Kacurri,up,1852,0.2,39,0
+Josh,Nichols,up,303,0.2,39,0
+Bukayo,Saka,down,27581,3.8,98,10
+Martin,Ødegaard,down,-13051,2.0,79,8
+Noni,Madueke,same,-8534,1.7,70,10
+Gabriel,Martinelli Silva,same,4431,1.0,69,12
+Leandro,Trossard,down,136,0.3,69,7
+Declan,Rice,up,-21676,8.3,65,20
+Mikel,Merino Zazón,up,19,0.5,59,8
+Fábio,Ferreira Vieira,down,-128,0.0,54,0
+Christian,Nørgaard,down,-529,0.2,54,0
+Ethan,Nwaneri,same,-399,0.2,53,5
+Martín,Zubimendi Ibáñez,down,26826,3.9,54,27
+Ismeal,Kabia,down,-936,0.2,45,0
+Albert,Sambi Lokonga,down,-401,0.1,45,0
+Kai,Havertz,same,-948,0.4,73,1
+Gabriel,Fernando de Jesus,down,-61,0.0,65,0
+Eberechi,Eze,down,866,12.1,75,14
+Cristhian,Mosquera,same,-444,0.2,54,11
+Viktor,Gyökeres,up,-20644,25.3,90,22
+Max,Dowman,up,-348,0.4,45,5
+Andre,Harriman-Annous,down,21,0.0,45,0
+Piero,Hincapié,same,-48,0.0,55,0
+Emiliano,Martínez Romero,down,3908,2.2,50,11
+Marco,Bizot,same,-3847,0.6,45,7
+Joe,Gauci,same,-456,0.2,40,0
+Filip,Marschall,down,-27,0.0,40,0
+Matty,Cash,same,12646,5.1,46,25
+Lucas,Digne,up,-4256,2.0,45,15
+Ezri,Konsa Ngoyo,same,-41084,12.3,45,12
+Ian,Maatsen,same,-1644,0.6,44,2
+Tyrone,Mings,down,2780,1.6,45,22
+Pau,Torres,down,-1122,0.4,44,3
+Andrés,García,same,-393,0.2,39,0
+Álex,Moreno Lopera,up,-23087,3.9,40,0
+Lamare,Bogarde,up,4006,0.6,40,11
+Lino,da Cruz Sousa,down,-301,0.3,40,0
+Yasin,Özcan,down,-246,0.2,40,0
+Morgan,Rogers,down,-81915,7.1,70,12
+Youri,Tielemans,up,-14060,1.1,59,8
+Leon,Bailey,up,-441,0.1,55,0
+Emiliano,Buendía Stati,up,-220,0.1,53,5
+Samuel,Iling-Junior,up,-40,0.0,55,0
+Donyell,Malen,same,-4007,0.7,52,6
+John,McGinn,up,-2143,0.6,55,12
+Ross,Barkley,up,-210,0.0,49,0
+Enzo,Barrenechea,up,-1,0.0,50,0
+Lewis,Dobbin,same,-123,0.0,50,0
+Boubacar,Kamara,same,610,0.1,49,9
+Amadou,Onana,same,-6865,0.8,49,6
+Ben,Broggio,down,109,0.3,45,0
+Leander,Dendoncker,down,-588,0.1,45,0
+Jamaldeen,Jimoh-Aloba,same,25,0.1,45,0
+Kadan,Young,down,-699,0.6,45,0
+Ollie,Watkins,down,-204900,12.6,88,10
+Zépiqueno,Redmond,same,-2618,0.5,45,0
+Harvey,Elliott,same,-1923,0.6,54,3
+Jadon,Sancho,same,-683,0.2,59,1
+Evann,Guessand,down,-26,0.0,64,6
+James,Wright,up,-247,0.5,40,0
+Triston,Rowe,down,-208,0.1,40,0
+Bradley,Burrowes,down,-53,0.1,45,1
+Sam,Proctor,up,189,0.3,40,0
+Travis,Patterson,down,-214,0.1,40,0
+Victor,Lindelöf,up,-135,0.0,45,1
+Max,Weiß,down,-242,0.1,44,0
+Etienne,Green,up,-1221,0.3,40,0
+Václav,Hladký,same,-245,0.2,40,0
+Connor,Roberts,down,-138,0.0,44,0
+Kyle,Walker,same,-3328,1.7,45,11
+Hannes,Delcroix,down,-193,0.2,39,0
+Owen,Dodgson,same,-39,0.0,40,0
+Hjalmar,Ekdal,up,7015,1.6,40,19
+Maxime,Estève,up,-42379,15.9,40,16
+Quilindschy,Hartman,same,-847,0.5,40,14
+Bashir,Humphreys,same,-62,0.1,40,0
+Jordan,Beyer,up,-304,0.1,40,0
+Lucas,Pires Silva,same,176,0.2,39,0
+Shurandy,Sambo,same,-180,0.1,40,0
+Oliver,Sonne,up,-241,0.1,40,3
+Axel,Tuanzebe,same,-1386,1.9,39,0
+Joe,Worrall,down,-179,0.1,40,3
+Jaidon,Anthony,down,83561,2.3,55,34
+Manuel,Benson Hedilazio,down,-59,0.0,54,0
+Jacob,Bruun Larsen,same,-245,0.0,54,9
+Enock,Agyei,same,-99,0.0,49,0
+Darko,Churlinov,up,-55,0.0,49,0
+Josh,Cullen,up,-2088,2.0,50,27
+Marcus,Edwards,up,112,0.1,48,1
+Hannibal,Mejbri,same,-571,0.2,50,11
+Luca,Koleosho,down,-44,0.0,50,0
+Josh,Laurent,up,-19,0.0,49,7
+Loum,Tchaouna,up,57,0.0,49,10
+Aaron,Ramsey,down,-31504,4.0,44,0
+Oluwaseun,Adewumi,up,-38,0.0,45,0
+Jaydon,Banel,up,32,0.0,45,0
+Mike,Trésor Ndayishimiye,up,508,0.1,44,0
+Zian,Flemming,down,-420,0.1,54,3
+Zeki,Amdouni,up,-47,0.0,49,0
+Lyle,Foster,up,29659,1.7,50,18
+Ashley,Barnes,same,-3036,1.6,44,0
+Michael,Obafemi,up,-1165,0.2,44,0
+Martin,Dúbravka,up,16920,34.3,40,17
+Lesley,Ugochukwu,same,-90,0.0,50,5
+Armando,Broja,up,-425,0.1,54,1
+Florentino Ibrain,Morris Luís,same,37,0.0,50,4
+Norberto,Murara Neto,down,-353,0.1,45,0
+Đorđe,Petrović,same,40831,4.9,45,21
+Will,Dennis,up,-22,1.1,40,0
+Callan,McKenna,up,-99,0.2,40,0
+Alex,Paulsen,down,-298,0.1,40,0
+Illia,Zabarnyi,down,-97,0.0,50,0
+Marcos,Senesi Barón,same,281416,13.1,47,37
+Adam,Smith,same,-1340,0.2,45,8
+Adrien,Truffert,down,21407,1.4,45,24
+Matai,Akinmboni,same,-320,0.3,40,0
+Owen,Bevan,down,-193,0.2,40,0
+James,Hill,up,1075,0.9,40,10
+Julián,Araujo Zúñiga,up,-2099,0.9,40,0
+Chris,Mepham,down,-517,0.1,40,0
+Julio,Soler Barreto,down,-220,0.3,40,1
+Justin,Kluivert,down,396,0.7,70,4
+Antoine,Semenyo,up,292062,46.8,77,41
+Marcus,Tavernier,up,-2505,1.7,55,23
+Tyler,Adams,same,327,0.4,50,14
+David,Brooks,same,207,0.4,50,15
+Ryan,Christie,same,-5,0.1,50,3
+Lewis,Cook,down,88,0.0,49,1
+Philip,Billing,down,-128,0.0,49,0
+Alex,Scott,down,3250,0.3,50,19
+Luis,Sinisterra Lucumí,up,-82,0.0,50,0
+Romain,Faivre,down,-659,0.1,45,0
+Hamed,Traorè,up,-6304,0.7,45,4
+Dominic,Sadi,up,168,0.1,45,0
+Zain,Silcott-Duberry,down,2454,0.2,44,0
+Ben,Winterburn,down,-372,0.1,45,1
+Francisco Evanilson,de Lima Barbosa,same,8258,3.1,70,18
+Enes,Ünal,up,-26,0.0,55,0
+Daniel,Adu-Adjei,same,699,0.3,44,0
+Eli Junior,Kroupi,same,1136,1.5,45,3
+Ben,Gannon-Doak,down,-216,0.0,50,0
+Bafodé,Diakité,same,274,0.4,45,21
+Remy,Rees-Dottin,down,-212,0.1,45,0
+Amine,Adli,same,-74,0.0,55,4
+Álex,Jiménez Sánchez,up,133,0.0,45,0
+Veljko,Milosavljevic,up,57,0.0,45,4
+Reiss,Nelson,down,-195,0.1,49,0
+Dango,Ouattara,down,-10194,0.8,60,17
+Caoimhín,Kelleher,up,-25819,8.7,45,10
+Ellery,Balcombe,up,-184,0.3,40,0
+Matthew,Cox,same,-24,0.1,40,0
+Julian,Eyestone,up,-69,0.1,40,0
+Hákon Rafn,Valdimarsson,same,-1795,0.7,40,0
+Nathan,Collins,up,-5446,1.4,50,15
+Keane,Lewis-Potter,same,-1082,0.4,50,15
+Kristoffer,Ajer,down,-83,0.2,44,6
+Rico,Henry,same,-247,0.1,45,3
+Michael,Kayode,up,-1094,0.4,45,15
+Ethan,Pinnock,up,-204,0.1,44,0
+Mads,Roerslev Rasmussen,up,-60,0.0,45,0
+Sepp,van den Berg,up,-1607,0.7,45,16
+Benjamin,Arthur,up,-354,0.3,40,0
+Benjamin,Fredrick,down,-189,0.1,40,0
+Aaron,Hickey,down,-513,0.4,40,2
+Kim,Ji-soo,up,1563,0.2,39,0
+Jayden,Meghoma,same,-191,0.1,40,0
+Kevin,Schade,same,-401,0.4,70,13
+Mikkel,Damsgaard,same,-167,0.7,59,15
+Antoni,Milambo,down,-142,0.0,54,1
+Fábio,Freitas Gouveia Carvalho,up,-55,0.3,49,11
+Jordan,Henderson,down,383,0.3,50,15
+Vitaly,Janelt,down,4,0.0,49,1
+Mathias,Jensen,same,-190,0.1,49,5
+Gustavo,Nunes Fernandes Gomes,up,-9,0.0,49,0
+Frank,Onyeka,up,-166,0.1,50,9
+Yehor,Yarmoliuk,down,-98,0.1,50,14
+Romelle,Donovan,same,-74,0.1,45,0
+Yunus Emre,Konak,same,662,0.2,44,0
+Paris,Maghoma,up,-46,0.0,45,0
+Myles,Peart-Harris,down,-53,0.0,45,0
+Ryan,Trevitt,down,-17,0.0,45,0
+Igor Thiago,Nascimento Rodrigues,same,-6888,1.7,60,17
+Iwan,Morgan,down,353,0.4,44,0
+Jason,Steele,up,-877,0.3,44,0
+Bart,Verbruggen,up,-21374,5.1,45,8
+Tom,McGill,down,-310,0.4,40,0
+Carl,Rushworth,down,-6,0.0,40,0
+Kjell,Scherpen,down,-4,0.0,40,0
+Olivier,Boscagli,down,-182,0.1,44,0
+Diego,Coppola,same,-106,0.1,44,2
+Maxim,De Cuyper,same,-30228,3.0,44,5
+Lewis,Dunk,down,-778,1.2,45,13
+Pervis,Estupiñán Tenorio,same,-34,0.0,45,0
+Ferdi,Kadıoğlu,up,86,0.1,44,5
+Tariq,Lamptey,down,-1236,0.2,44,0
+Jan Paul,van Hecke,same,-2123,0.9,45,8
+Joël,Veltman,up,240,0.2,44,7
+Adam,Webster,up,-15,0.0,44,0
+Eiran,Cashin,up,-14,0.0,40,0
+Jacob,Slater,down,-217,0.2,40,0
+Charlie,Tasker,up,-226,0.1,40,0
+Mitoma,Kaoru,down,-13514,4.7,64,18
+Georginio,Rutter,same,-4364,0.5,58,13
+Solly,March,same,-19,0.0,58,0
+Yankuba,Minteh,down,21339,1.1,59,24
+Julio,Enciso Espínola,same,-37,0.0,54,0
+Brajan,Gruda,same,-188,0.1,54,13
+Jack,Hinshelwood,same,-450,0.0,53,4
+Matt,O'Riley,up,-6589,0.6,55,12
+Abdallah,Sima,same,-74,0.0,54,0
+Yasin,Ayari,down,5962,0.2,49,16
+Carlos,Baleba,same,-13498,2.7,49,6
+Diego,Gómez Amarilla,up,-91,0.1,50,3
+James,Milner,down,-215,0.1,50,9
+Jeremy,Sarmiento Morante,down,-94,0.0,49,0
+Tom,Watson,down,-46,0.0,49,0
+Mats,Wieffer,up,-139,0.1,49,8
+Malick,Yalcouyé,same,-17,0.0,50,0
+Joe,Knight,down,-38,0.1,45,0
+Adrian,Mazilu,same,-18,0.0,45,0
+Andrew,Moran,down,-91,0.0,45,0
+Danny,Welbeck,same,-9867,1.9,63,6
+Evan,Ferguson,down,-25,0.0,55,0
+Stefanos,Tzimas,same,-295,0.1,54,1
+Charalampos,Kostoulas,down,-570,0.3,49,0
+Facundo,Buonanotte,up,-416,0.1,48,1
+Robert,Lynch Sánchez,same,-279893,19.7,50,16
+Filip,Jörgensen,up,2379,0.2,44,1
+Mike,Penders,down,-12,0.0,40,0
+Gabriel,Słonina,up,36,0.1,40,0
+Marc,Cucurella Saseta,down,-113597,26.2,62,20
+Reece,James,down,-1098,4.4,54,12
+Trevoh,Chalobah,up,99213,9.7,51,38
+Levi,Samuels Colwill,down,-353,0.1,48,0
+Malo,Gusto,down,-4622,1.4,49,10
+Benoît,Badiashile Mukinayi,down,-23,0.0,44,0
+Wesley,Fofana,up,920,0.2,44,3
+Mamadou,Sarr,up,-32,0.0,45,0
+Tosin,Adarabioyo,same,-6890,1.1,45,11
+Josh,Acheampong,up,-9582,1.5,40,9
+Aarón,Anselmino,up,-287,0.1,40,0
+Cole,Palmer,down,-149905,20.1,104,11
+Pedro,Lomba Neto,same,-23701,4.7,70,16
+Enzo,Fernández,up,-48260,13.2,67,30
+Estêvão,Almeida de Oliveira Gonçalves,same,-9903,2.0,65,9
+Jamie,Bynoe-Gittens,up,-649,0.1,62,4
+Christopher,Nkunku,up,-408,0.1,59,0
+Moisés,Caicedo Corozo,down,108351,10.8,56,33
+Tyrique,George,up,-68,0.1,49,3
+Roméo,Lavia,up,-29,0.0,49,0
+Mykhailo,Mudryk,same,-12,0.0,50,0
+Andrey,Nascimento dos Santos,down,1797,0.3,45,4
+Dário,Luís Essugo,up,-226,0.0,44,0
+Kendry,Páez Andrade,same,-18,0.0,45,0
+João Pedro,Junqueira de Jesus,up,-7389,67.2,78,35
+Liam,Delap,up,-7552,1.2,63,4
+Nicolas,Jackson,same,-347,0.1,65,0
+Marc,Guiu Paz,same,-38527,9.3,43,2
+Alejandro,Garnacho Ferreyra,down,-1580,0.3,64,1
+Jorrel,Hato,down,-646,0.2,48,0
+Dean,Henderson,same,-18998,8.0,50,22
+Walter,Benítez,down,-1816,0.4,40,0
+Remi,Matthews,up,0,0.1,40,0
+Daniel,Muñoz Mejía,up,-63888,13.5,56,26
+Maxence,Lacroix,same,-19529,4.2,51,30
+Tyrick,Mitchell,down,5251,1.9,50,30
+Borna,Sosa,same,-314,0.1,49,0
+Marc,Guéhi,down,113300,24.4,47,36
+Chris,Richards,up,10327,2.3,45,26
+Chadi,Riad Dnanou,down,-17,0.0,40,0
+Nathaniel,Clyne,up,-1106,0.5,40,1
+Rob,Holding,same,-75,0.0,40,0
+Caleb,Kporha,up,-11,0.0,40,0
+Ismaïla,Sarr,same,-31421,2.6,64,18
+Cheick,Doucouré,same,0,0.0,49,0
+Romain,Esse,down,-247,0.2,48,1
+Will,Hughes,up,-93,0.1,49,10
+Daichi,Kamada,same,-821,0.1,50,11
+Jefferson,Lerma Solís,same,-231,0.1,49,6
+Adam,Wharton,same,705,0.4,50,13
+Asher,Agbinone,up,-47,0.1,45,0
+Naouirou,Ahamada,up,-38,0.0,45,0
+Justin,Devenny,down,-1339,1.4,45,6
+Malcolm,Ebiowei,same,-14,0.0,45,0
+Jesurun,Rak-Sakyi,up,-49,0.1,44,0
+Matheus,França de Oliveira,down,-52,0.0,45,0
+David,Ozoh,same,-4,0.0,45,0
+Kaden,Rodney,down,-52,0.0,45,0
+Franco,Umeh-Chibueze,up,-26,0.0,45,0
+Jean-Philippe,Mateta,down,-86759,11.4,76,16
+Eddie,Nketiah,down,964,0.2,54,1
+Odsonne,Édouard,down,-2323,0.4,50,1
+Zach,Marsh,down,205,0.3,45,0
+Rio,Cardines,up,-442,0.2,45,0
+Yéremy,Pino Santos,down,-4511,0.2,60,5
+Jaydee,Canvot,down,6,0.0,45,0
+Christantus,Uche,up,-98,0.0,55,1
+Kiernan,Dewsbury-Hall,down,4274,4.9,50,19
+Jordan,Pickford,down,-5662,11.4,55,25
+Mark,Travers,up,-181,0.1,45,0
+Harry,Tyrer,same,-98,0.1,40,0
+Jarrad,Branthwaite,up,-600,0.2,53,0
+James,Tarkowski,down,38190,7.3,55,26
+Vitalii,Mykolenko,same,575,0.4,49,2
+Jake,O'Brien,up,253,0.5,50,16
+Séamus,Coleman,same,-283,0.1,44,1
+Michael,Keane,up,4917,0.7,45,20
+Nathan,Patterson,down,-8,0.0,44,0
+Roman,Dixon,up,-277,0.2,40,0
+Reece,Welch,same,232,0.1,39,0
+Iliman,Ndiaye,same,120703,9.3,65,28
+Dwight,McNeil,up,-732,0.2,57,1
+Carlos,Alcaraz Durán,up,-257,0.1,53,4
+Idrissa Gana,Gueye,same,1784,0.1,54,20
+James,Garner,up,12638,0.6,50,25
+Tim,Iroegbunam,same,-36,0.0,49,7
+Harrison,Armstrong,down,-512,0.1,45,1
+Callum,Bates,down,-31,0.1,45,0
+Coby,Ebere,up,-24,0.0,45,0
+Isaac,Heath,up,-109,0.0,45,0
+Jenson,Metcalfe,up,-2,0.0,45,0
+Thierno,Barry,same,-967,0.4,58,6
+Norberto Bercique,Gomes Betuncal,same,-12777,5.0,54,12
+Youssef,Ramalho Chermiti,up,-400,0.1,49,0
+Martin,Sherif,up,-154,0.2,44,0
+Jack,Grealish,up,67756,22.6,68,25
+Tom,King,same,-1617,1.3,40,0
+Adam,Aznou,down,-154,0.1,44,0
+Tyler,Onyango,same,-437,0.1,45,0
+Elijah,Campbell,up,-288,0.2,40,0
+Tyler,Dibling,same,-60,0.0,55,1
+Merlin,Röhl,same,-59,0.0,50,1
+Bernd,Leno,up,-1684,1.6,50,17
+Steven,Benda,down,-13,0.0,40,0
+Antonee,Robinson,down,-2442,0.8,50,2
+Joachim,Andersen,down,22496,3.8,45,23
+Calvin,Bassey,up,1084,0.6,45,17
+Timothy,Castagne,same,-437,0.1,44,3
+Issa,Diop,down,-129,0.1,44,0
+Jorge,Cuenca Barreno,up,-43,0.0,44,3
+Kenny,Tete,up,-190,0.2,45,15
+Samuel,Amissah,down,-19,0.1,39,0
+Alex,Iwobi,up,25671,1.6,65,26
+Emile,Smith Rowe,down,-3521,0.7,59,10
+Adama,Traoré Diarra,down,-597,0.2,53,3
+Andreas,Hoelgebaum Pereira,up,-819,0.1,53,0
+Ryan,Sessegnon,down,118,0.0,54,12
+Harry,Wilson,same,-210,0.4,54,17
+Sander,Berge,up,-95,0.1,50,12
+Tom,Cairney,up,-35,0.0,49,2
+Saša,Lukić,same,-148,0.1,50,13
+Martial,Godo,same,-220,0.0,45,0
+Luke,Harris,down,-3,0.0,45,0
+Josh,King,down,22384,3.7,45,8
+Harrison,Reed,down,-21,0.3,44,0
+Raúl,Jiménez Rodríguez,up,-5560,1.1,63,6
+Rodrigo,Muniz Carvalho,down,3046,2.5,55,15
+Benjamin,Lecomte,same,-680,0.7,40,0
+Samuel,Chukwueze,down,-151,0.0,55,0
+Kevin,Santos Lopes de Macedo,down,-819,0.1,60,1
+Jonah,Kusi-Asare,down,249,0.0,45,0
+Illan,Meslier,up,-1519,0.5,44,0
+Alex,Cairns,down,-163,0.2,40,0
+Karl,Darlow,same,4834,2.4,40,6
+Jayden,Bogle,same,-644,0.2,45,17
+Pascal,Struijk,up,325,0.4,45,20
+Jaka,Bijol,up,-1228,0.1,40,0
+Sebastiaan,Bornauw,down,273,0.1,39,0
+Sam,Byram,down,3219,0.2,39,1
+Gabriel,Gudmundsson,same,28629,5.3,40,21
+Joe,Rodon,down,42187,4.0,40,22
+Isaac,Schmidt,down,-494,0.1,40,0
+Brenden,Aaronson,same,-54,0.1,54,10
+Wilfried,Gnonto,up,-2170,0.2,53,6
+Jack,Harrison,same,-224,0.1,53,4
+Daniel,James,down,-2668,0.2,53,7
+Ethan,Ampadu,same,572,0.1,49,11
+Sam,Greenwood,up,-276,0.1,49,0
+Ilia,Gruev,down,-48,0.0,49,7
+Largie,Ramazani,up,-95,0.0,49,0
+Tanaka,Ao,down,-434,0.1,49,5
+Charlie,Crew,down,-15,0.0,45,0
+Joe,Gelhardt,up,-75,0.0,45,0
+Darko,Gyabi,same,-274,0.0,45,0
+Joël,Piroe,same,-4954,0.7,53,3
+Patrick,Bamford,down,-5517,0.7,49,0
+Mateo,Joseph Fernández-Regatillo,same,-37,0.0,50,0
+Lukas,Nmecha,down,-167,0.8,50,10
+Sean,Longstaff,same,231,0.2,49,11
+Anton,Stach,same,70836,1.1,50,29
+Lucas Estella,Perri,up,-1765,0.3,45,12
+Dominic,Calvert-Lewin,down,21860,0.4,55,14
+Noah,Okafor,up,1945,0.0,55,11
+James,Justin,up,45,0.2,40,2
+Harry,Gray,down,1491,0.0,45,0
+Alisson,Becker,same,-17321,10.8,55,18
+Giorgi,Mamardashvili,same,-896,0.3,43,0
+Ármin,Pécsi,down,3958,0.1,39,0
+Freddie,Woodman,up,-104,0.1,40,0
+Jeremie,Frimpong,down,-36099,8.6,59,5
+Milos,Kerkez,same,-13490,5.2,59,11
+Andrew,Robertson,up,-3080,1.1,59,1
+Virgil,van Dijk,same,23080,29.8,61,26
+Ibrahima,Konaté,same,5996,3.4,55,20
+Conor,Bradley,down,369,0.1,50,2
+Joe,Gomez,up,-419,0.1,50,2
+Konstantinos,Tsimikas,same,-425,0.1,48,0
+Amara,Nallo,same,-423,0.2,39,0
+Rhys,Williams,same,-408,0.2,39,0
+Calvin,Ramsay,up,-551,0.2,39,0
+Mohamed,Salah,down,-211516,51.7,145,30
+Florian,Wirtz,same,-249312,14.4,83,10
+Luis,Díaz Marulanda,up,-67,0.1,80,0
+Cody,Gakpo,down,-156148,17.0,77,25
+Federico,Chiesa,down,-1801,0.3,64,9
+Alexis,Mac Allister,down,-5422,1.4,64,11
+Dominik,Szoboszlai,up,-3318,3.9,65,21
+Curtis,Jones,down,-93,0.1,54,8
+Ryan,Gravenberch,down,154964,2.2,55,27
+Endo,Wataru,same,-394,0.1,49,5
+Stefan,Bajčetić Maquieira,same,-307,0.1,44,0
+James,McConnell,down,-39,0.0,44,0
+Tyler,Morton,down,-5,0.0,45,0
+Trey,Nyoni,down,-716,0.2,44,0
+Darwin,Núñez Ribeiro,same,-126,0.1,65,0
+Jayden,Danns,down,-205,0.1,44,0
+Alexander,Isak,down,-66576,9.6,105,1
+Hugo,Ekitiké,up,18176,28.0,87,32
+Rio,Ngumoha,same,1568,0.6,45,7
+Giovanni,Leoni,up,-54,0.0,50,0
+James,Trafford,same,-13588,1.6,49,11
+Ederson,Santana de Moraes,down,-7053,1.2,53,0
+Stefan,Ortega Moreno,same,-466,0.2,49,0
+Marcus,Bettinelli,up,-128,0.1,40,0
+Rayan,Aït-Nouri,up,-95990,8.8,59,10
+Joško,Gvardiol,down,43517,3.8,58,10
+Manuel,Akanji,down,-2268,0.4,54,0
+Nathan,Aké,same,-905,0.7,54,3
+Abdukodir,Khusanov,same,1780,0.5,54,11
+Matheus,Nunes,same,-272,0.3,53,4
+Rúben,dos Santos Gato Alves Dias,same,13432,4.1,55,16
+John,Stones,down,-3993,0.8,55,9
+Rico,Lewis,up,-18677,2.6,50,13
+Nico,O'Reilly,down,9646,0.3,49,13
+Vitor,de Oliveira Nunes dos Reis,down,-10,0.0,50,0
+Omar,Marmoush,same,-28199,3.4,83,9
+Phil,Foden,up,78585,3.4,80,16
+Sávio,Moreira de Oliveira,down,-133,0.4,69,2
+Bernardo,Mota Veiga de Carvalho e Silva,same,21,0.6,64,13
+Rayan,Cherki,same,-23305,2.6,63,7
+Jérémy,Doku,up,80335,2.6,64,18
+İlkay,Gündoğan,up,-494,0.1,63,0
+Rodrigo 'Rodri',Hernandez Cascante,up,896,0.7,64,10
+Mateo,Kovačić,down,-11,0.0,59,0
+Nico,González Iglesias,down,-143,0.1,60,6
+Oscar,Bobb,down,-4571,0.4,55,11
+Claudio,Echeverri,down,-41,0.0,54,0
+Tijjani,Reijnders,down,142755,31.2,56,26
+Sverre,Nypan,same,-34,0.0,50,0
+Kalvin,Phillips,same,-119,0.1,49,0
+Erling,Haaland,up,544731,42.2,143,46
+Gianluigi,Donnarumma,up,225318,5.2,56,7
+Divine,Mukasa,down,169,0.0,45,0
+Stephen,Mfuni,up,117,0.0,40,0
+Bryan,Mbeumo,same,-9842,15.2,81,19
+Altay,Bayındır,down,519,0.4,50,9
+André,Onana,down,-1013,0.2,49,0
+Elyh,Harrison,down,-4,0.0,40,0
+Tom,Heaton,same,-278,0.3,40,0
+Dermot,Mee,up,-108,0.1,40,0
+Matthijs,de Ligt,down,493,2.7,50,15
+Lisandro,Martínez,down,-239,0.1,49,0
+Noussair,Mazraoui,up,3157,0.2,49,9
+Diego,León Blanco,down,-90,0.1,43,0
+Diogo,Dalot Teixeira,up,-9541,1.0,44,6
+Patrick,Dorgu,down,-11192,5.4,45,9
+Harry,Maguire,down,4445,0.7,44,14
+Luke,Shaw,same,451,0.3,45,8
+Leny,Yoro,up,-7466,2.2,45,13
+Harry,Amass,down,-458,0.1,40,0
+Tyler,Fredricson,same,-200,0.1,39,0
+Ayden,Heaven,down,1993,1.2,39,1
+Tyrell,Malacia,up,-169,0.4,39,0
+Bruno,Borges Fernandes,down,80170,19.1,90,26
+Matheus,Santos Carneiro da Cunha,up,-6518,4.4,80,6
+Marcus,Rashford,down,-16,0.0,70,0
+Amad,Diallo,same,-6155,1.6,63,11
+Antony,dos Santos,same,-294,0.1,59,0
+Mason,Mount,same,-3,0.2,59,7
+Carlos Henrique,Casimiro,down,-1863,0.2,55,11
+Kobbie,Mainoo,down,-1160,0.5,49,3
+Manuel,Ugarte Ribeiro,same,-11,0.1,49,7
+Toby,Collyer,same,-168,0.0,45,0
+Jayce,Fitzgerald,same,60,0.0,44,0
+Jack,Fletcher,same,-69,0.1,44,0
+Sékou,Koné,down,-7,0.1,44,0
+Jack,Moorhouse,up,12,0.0,45,0
+Rasmus,Højlund,up,-1243,0.3,63,0
+Joshua,Zirkzee,up,-1174,0.4,59,2
+Chido,Obi,down,-3846,1.4,44,0
+Ethan,Wheatley,same,-43,0.1,45,0
+Benjamin,Sesko,up,-22409,4.6,73,6
+Senne,Lammens,down,-185,0.1,50,0
+Jacob,Ramsey,down,-2042,0.3,54,2
+Yoane,Wissa,up,-6562,0.8,74,0
+Nick,Pope,down,33184,6.3,50,32
+Mark,Gillespie,up,-118,0.1,40,0
+Odysseas,Vlachodimos,same,-45,0.0,40,0
+Lewis,Hall,down,-2318,1.3,54,9
+Fabian,Schär,up,-32938,2.5,55,23
+Sven,Botman,same,437,0.5,49,17
+Dan,Burn,same,11714,5.8,50,32
+Tino,Livramento,down,-609,9.6,51,31
+Kieran,Trippier,up,-17412,2.6,50,21
+Emil,Krafth,same,-87,0.0,44,0
+Jamaal,Lascelles,same,-92,0.1,44,1
+Alex,Murphy,up,-522,0.7,39,0
+Harrison,Ashby,up,94,0.2,39,0
+Miodrag,Pivaš,up,-245,0.2,39,0
+Matt,Targett,down,-1493,0.3,40,0
+Anthony,Gordon,down,4203,0.9,74,1
+Anthony,Elanga,same,-52560,6.3,69,8
+Harvey,Barnes,up,-10538,0.8,65,10
+Bruno,Guimarães Rodriguez Moura,down,-14290,2.3,65,14
+Jacob,Murphy,same,-4066,1.1,63,13
+Joelinton Cássio,Apolinário de Lira,down,-170,0.3,59,7
+Sandro,Tonali,down,-3073,1.3,54,14
+Antoñito,Cordero Campillo,up,-50,0.0,49,0
+Joe,Willock,up,68,0.1,50,4
+Isaac,Hayden,up,-22,0.0,45,0
+Garang,Kuol,up,39,0.1,44,0
+Lewis,Miley,down,11539,2.0,44,6
+Joe,White,up,-22,0.0,45,0
+William,Osula,same,-2339,0.4,55,10
+Sean,Neave,up,-134,0.2,44,0
+Aaron,Ramsdale,up,-1530,0.7,49,0
+Malick,Thiaw,down,31,0.1,49,8
+Seung-Soo,Park,up,-353,0.2,45,0
+Nick,Woltemade,down,-7528,3.4,71,11
+Oleksandr,Zinchenko,down,657,0.3,49,2
+James,McAtee,up,-727,0.1,54,3
+Matz,Sels,down,-60055,13.7,50,10
+Carlos Miguel,dos Santos Pereira,up,-383,0.1,40,0
+Matt,Turner,down,-374,0.1,40,0
+Nikola,Milenković,down,-34736,7.1,55,8
+Murillo,Costa dos Santos,same,-47400,3.8,54,7
+Ola,Aina,up,-95215,5.6,49,6
+Neco,Williams,up,-30682,6.7,50,14
+David,Mota Veiga Teixeira do Carmo,down,-137,0.0,45,0
+Jair,Paula da Cunha Filho,same,-157,0.1,44,0
+Felipe,Rodrigues da Silva,same,-74,0.1,44,2
+Omar,Richards,down,-133,0.0,45,0
+Zach,Abbott,up,339,0.2,39,0
+Willy,Boly,up,2996,0.5,39,0
+Morgan,Gibbs-White,up,-26764,5.0,75,13
+Callum,Hudson-Odoi,same,-9488,1.5,60,16
+Elliot,Anderson,same,-19092,5.1,55,18
+João Pedro,Ferreira da Silva,down,-378,0.1,54,1
+Nicolás,Domínguez,up,0,0.0,50,0
+Lewis,O'Brien,up,0,0.0,50,0
+Ibrahim,Sangaré,up,-152,0.1,50,11
+Ryan,Yates,down,-108,0.1,48,3
+Eric,da Silva Moreira,up,-530,0.1,45,0
+Marko,Stamenić,down,-93,0.0,45,0
+Chris,Wood,down,-191500,20.1,76,20
+Igor Jesus,Maciel da Cruz,up,-888,0.5,58,4
+Taiwo,Awoniyi,same,-1468,0.4,53,0
+Dan,Ndoye,same,-22288,3.2,61,21
+Angus,Gunn,down,-1047,1.7,40,0
+Omari,Hutchinson,down,-98,0.0,55,2
+Arnaud,Kalimuendo,up,-131,0.1,60,4
+Douglas Luiz,Soares de Paulo,down,811,0.1,50,5
+John Victor,Maciel Furtado,down,4362,0.4,40,0
+Nicolò,Savona,up,-37,0.0,45,0
+Luis Eduardo,Soares da Silva,up,-2,0.0,45,0
+Dilane,Bakwa,down,104,0.0,60,2
+Anthony,Patterson,down,-627,0.2,44,0
+Simon,Moore,up,-509,0.4,40,0
+Blondy,Nna Noukeu,up,-149,0.1,40,0
+Daniel,Ballard,same,-12502,2.6,46,19
+Trai,Hume,up,124,0.3,45,19
+Aji,Alese,up,3,0.0,40,0
+Joe,Anderson,up,3887,0.4,39,0
+Dennis,Cirkin,down,-56,0.0,40,0
+Leo Fuhr,Hjelde,down,2,0.0,40,0
+Niall,Huggins,down,-420,0.1,40,0
+Zak,Johnson,down,-214,0.2,40,0
+Luke,O'Nien,up,-57,0.0,40,0
+Timothée,Pembélé,up,9113,0.3,39,0
+Reinildo,Mandava,same,-50894,7.7,40,14
+Jenson,Seelt,up,-807,0.2,40,2
+Simon,Adingra,down,-8459,1.0,54,11
+Habib,Diarra,down,-790,0.1,55,12
+Patrick,Roberts,up,-105,0.0,54,1
+Milan,Aleksić,down,-111,0.0,49,0
+Enzo,Le Fée,down,-1026,0.4,49,15
+Romaine,Mundle,up,-6,0.0,49,0
+Dan,Neil,same,-52,0.0,49,1
+Ian,Poveda-Ocampo,down,-36,0.0,49,0
+Chris,Rigg,same,-50,0.0,49,3
+Noah,Sadiki,down,-51,0.0,50,11
+Chemsdine,Talbi,up,-1107,0.3,50,16
+Abdoullah,Ba,same,-222,0.2,44,0
+Alan,Browne,same,-320,0.1,45,0
+Pierre,Ekwah Elimby,same,-35,0.0,45,0
+Harrison,Jones,same,7,0.1,44,0
+Jay,Matete,same,84,0.2,44,0
+Nectarios,Triantis,down,14,0.1,44,0
+Wilson,Isidor,up,42208,1.6,55,25
+Eliezer,Mayenda Dossou,same,-10425,1.3,55,13
+Ahmed,Abdullahi,up,-533,0.4,44,0
+Luís Hemir,Silva Semedo,up,-13,0.2,44,0
+Nazarii,Rusyn,same,-597,0.1,44,0
+Granit,Xhaka,same,4294,2.9,50,20
+Robin,Roefs,up,24786,2.3,45,29
+Arthur,Masuaku,same,-777,0.6,40,1
+Omar,Alderete,same,24214,1.9,40,22
+Nordi,Mukiele,same,19223,0.9,40,18
+Lutsharel,Geertruida,down,49,0.0,45,2
+Brian,Brobbey,up,-185,0.1,55,1
+Bertrand,Traoré,up,28,0.0,55,0
+Guglielmo,Vicario,up,54646,11.9,51,30
+Brandon,Austin,same,-355,0.3,40,0
+Antonín,Kinský,down,-4198,1.5,40,0
+Pedro,Porro Sauceda,up,-75444,24.5,56,22
+Cristian,Romero,up,30835,7.0,51,29
+Kevin,Danso,same,333,0.2,43,2
+Ben,Davies,up,-217,0.1,44,0
+Radu,Drăgușin,up,-9,0.0,45,0
+Djed,Spence,up,-8492,2.4,45,19
+Destiny,Udogie,up,2999,0.5,44,3
+Micky,van de Ven,down,79446,33.3,47,28
+Ashley,Phillips,same,-45,0.0,40,0
+Takai,Kōta,down,-163,0.1,40,0
+Luka,Vušković,down,-3170,0.6,39,0
+Son,Heung-min,down,-190,0.1,85,0
+Brennan,Johnson,down,-90134,7.0,70,20
+James,Maddison,same,-233,0.1,69,0
+Mohammed,Kudus,same,80974,31.7,66,25
+Dejan,Kulusevski,same,-20,0.0,64,0
+Mathys,Tel,up,-411,0.1,63,5
+Rodrigo,Bentancur,up,-311,0.1,54,8
+Lucas,Bergvall,up,7679,0.5,54,20
+Yves,Bissouma,down,-180,0.1,53,0
+Wilson,Odobert,same,42,0.0,53,6
+Manor,Solomon,down,-40,0.0,54,0
+Bryan,Gil Salvatierra,down,-111,0.0,49,0
+Archie,Gray,up,-223,0.1,49,4
+Mikey,Moore,same,-11,0.0,50,0
+Pape Matar,Sarr,down,-15668,3.1,50,19
+Yang,Min-hyeok,down,-52,0.0,45,0
+Callum,Olusesi,down,107,0.2,44,0
+Dominic,Solanke-Mitchell,up,-7504,1.3,72,2
+Richarlison,de Andrade,up,105792,14.1,67,29
+Will,Lankshear,up,-118,0.0,45,0
+Dane,Scarlett,same,-1030,0.7,44,0
+João Maria,Lobo Alves Palhares Costa Palhinha Gonçalves,same,337,0.8,55,20
+Xavi,Simons,same,10595,3.7,71,7
+Randal,Kolo Muani,down,-2158,0.3,70,0
+Igor Julio,dos Santos de Paulo,up,-73,0.1,45,0
+Alphonse,Areola,down,-7289,2.5,44,1
+Wes,Foderingham,down,-1794,0.4,40,0
+Krisztián,Hegyi,up,-242,0.2,40,0
+El Hadji Malick,Diouf,same,-29019,4.3,44,18
+Emerson,Palmieri dos Santos,same,-603,0.1,44,0
+Maximilian,Kilman,up,-584,0.2,44,9
+Konstantinos,Mavropanos,up,121,0.1,44,12
+Nayef,Aguerd,down,-377,0.1,44,3
+Ollie,Scarles,same,-43,0.0,44,0
+Jean-Clair,Todibo,down,-214,0.1,44,1
+Aaron,Wan-Bissaka,same,-104302,9.9,43,1
+Kaelan,Casey,down,-261,0.1,40,0
+Lucas,Tolentino Coelho de Lima,down,-24414,3.8,59,24
+Tomáš,Souček,down,-2920,0.3,57,4
+James,Ward-Prowse,down,-862,0.3,58,11
+Crysencio,Summerville,same,-152,0.1,55,11
+Edson,Álvarez Velázquez,down,-291,0.1,49,0
+Maxwel,Cornet,down,-110,0.0,49,0
+Guido,Rodríguez,down,-113,0.0,49,2
+Luis Guilherme,Lira dos Santos,same,-12,0.0,49,2
+George,Earthy,same,-12,0.1,45,0
+Andy,Irving,same,2831,0.3,44,3
+Lewis,Orford,same,-340,0.1,44,0
+Freddie,Potts,down,-416,0.7,44,1
+Jarrod,Bowen,down,-5945,6.4,77,24
+Niclas,Füllkrug,down,-6569,1.1,57,6
+Callum,Marshall,same,-697,0.7,44,0
+Kyle,Walker-Peters,down,-414,0.4,44,9
+Callum,Wilson,up,-800,0.5,59,11
+Mads,Hermansen,same,-1061,0.3,45,9
+Mateus Gonçalo,Espanha Fernandes,down,-75,0.0,55,7
+Soungoutou,Magassa,down,3,0.0,50,2
+Lukasz,Fabianski,up,125,0.0,45,0
+Sam,Johnstone,same,-258,0.1,45,3
+José,Malheiro de Sá,down,-4980,1.6,45,5
+Daniel,Bentley,up,-586,0.7,40,0
+Emmanuel,Agbadou,same,-3815,0.4,45,12
+Matt,Doherty,up,-461,0.1,44,0
+Hugo,Bueno López,down,-143,0.1,44,7
+Yerson,Mosquera Valdelamar,up,-82,0.1,44,3
+Rodrigo,Martins Gomes,same,-662,0.1,45,10
+Santiago,Ignacio Bueno,same,-126,0.0,44,4
+Toti,Gomes,same,-376,0.1,44,4
+Ki-Jana,Hoever,same,-5512,1.3,40,2
+Bastien,Meupiyou Menadjou,down,-19,0.0,40,0
+Pedro,Cardoso de Lima,up,-2805,0.7,40,0
+Alfie,Pond,same,-2110,1.1,40,0
+Hwang,Hee-chan,down,-3418,0.2,59,11
+André,Trindade da Costa Neto,same,-302,0.1,54,9
+Jean-Ricner,Bellegarde,up,-214,0.1,54,6
+Fer,López González,up,-46,0.0,54,6
+João Victor,Gomes da Silva,up,-228,0.1,54,12
+Gonçalo Manuel,Ganchinho Guedes,up,-10,0.0,55,0
+Marshall,Munetsi,up,-302,0.0,55,10
+Boubacar,Traoré,up,-1,0.0,50,0
+Tawanda,Chirewa,up,345,0.3,44,0
+Tom,Edozie,down,926,0.4,44,0
+Enso,González Medina,up,6035,1.7,44,0
+Joe,Hodge,up,-156,0.0,45,0
+Jørgen,Strand Larsen,same,-8602,1.6,64,5
+Fábio,Soares Silva,same,-1652,0.3,49,0
+Saša,Kalajdžić,down,-340,0.1,49,1
+Leon,Chiwome,same,-74,0.0,45,0
+Nathan,Fraser,up,395,2.3,44,0
+Jhon,Arias,down,-2602,0.3,53,6
+David,Møller Wolfe,down,-280,0.1,45,6
+Jackson,Tchatchoua,same,-39,0.0,45,4
+Ladislav,Krejcí,up,489,0.0,45,8
+Tolu,Arokodare,down,-345,0.1,55,4
